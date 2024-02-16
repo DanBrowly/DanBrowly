@@ -4,7 +4,7 @@ e esse é meu GitHub
 
   
 - 🌱 Atualmente Estudando JavaScript, CSS, Pyton and SQL
-- 📩 [contato]([danielcardoso02022002@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=CllgCJfrLfrxFPqNzzVpRhGnNHmTHpZpSsGQklDgRBdKgvRrzDzkCZWGlqqGcMbsdnCPpLbJZGV))
+- 📩 contato (danielcardoso02022002@gmail.com)
 
 
 - ###### ⚡ Fun fact: O nome DanBrowly é uma apelido que eu tinha criado desde a escola
