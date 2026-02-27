@@ -1,9 +1,12 @@
 ### OI👋 
-meu nome é **Daniel Rodrigues Silva Cardoso**
+  meu nome é **Daniel Rodrigues Silva Cardoso**
 e esse é meu GitHub
 
+  Nesse 6 anos que eu tenho github vivi, trabalhei, montei, desmontei, peguei vírus, desmontei loops de redes, programei, desprogramei, fiz meio mundo de coisa de ti, para descubri que eu gosto de monta servidor mesmo, a vida é uma comédia mesmo
+
   
-- 🌱 Atualmente Estudando JavaScript, CSS, Pyton and SQL
+- 🌱 Atualmente Estudando redes, servidores, sergurança, protocolo HTTP e php (para facilita minha vida)
+- (**não tenho dinheiro para hospeda na AWS então vou fazer meu próprio**)
 - 📩 contato (danielcardoso02022002@gmail.com)
 
 
