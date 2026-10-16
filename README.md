@@ -6,7 +6,6 @@ e esse é meu GitHub
 
   
 - 🌱 Atualmente Estudando redes, servidores, sergurança, protocolo HTTP e php (para facilita minha vida)
-- (**não tenho dinheiro para hospeda na AWS então vou fazer meu próprio**)
 - 📩 contato (danielcardoso02022002@gmail.com)
 
 
